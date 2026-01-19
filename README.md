@@ -27,7 +27,10 @@ Tenho paixão por transformar dados em insights estratégicos, construindo pipel
 - 📑 Storytelling com dados  
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gpiratelo25&theme=github_dark&show_icons=true" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpiratelo25&layout=donut&theme=github_dark" width="420" height="200" />
+</div>
 ## 📂 Work Examples
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }}) – {{ post.date | date: "%d/%m/%Y" }}
